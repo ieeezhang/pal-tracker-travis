@@ -14,7 +14,7 @@ dependencies {
 }
 
 bootRun.environment([
-    "WELCOME_MESSAGE": "hello",
+    "WELCOME_MESSAGE": "hello from build.gradle",
 ])
 
 test.environment([
